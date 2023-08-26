@@ -1,6 +1,6 @@
-let num = 6;
+const num = 6;
 
-let count = 0;
+const count = 0;
 
 for(let i = 1; i<=num; i++)
   {
