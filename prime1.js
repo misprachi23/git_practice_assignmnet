@@ -1,3 +1,4 @@
+
 var count =0;
 for(let i=1; i<=Number; i++){
     if(num % i == 0){
